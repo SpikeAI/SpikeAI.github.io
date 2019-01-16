@@ -1,0 +1,4 @@
+Sitemap: https://spikeai.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: spikeai.github.io
