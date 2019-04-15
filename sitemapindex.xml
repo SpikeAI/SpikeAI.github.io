@@ -7,38 +7,42 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://spikeai.github.io/categories/blog.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/categories/cat_nikola.xml</loc>
   <lastmod>2019-01-16T11:43:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://spikeai.github.io/categories/cat_spikeai.xml</loc>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://spikeai.github.io/categories/demo.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/categories/nikola.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/categories/python.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/rss.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://spikeai.github.io/sitemap.xml</loc>
-  <lastmod>2019-01-16T11:43:00Z</lastmod>
+  <lastmod>2019-04-15T07:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>
